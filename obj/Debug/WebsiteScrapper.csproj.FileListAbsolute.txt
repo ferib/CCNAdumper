@@ -1,0 +1,7 @@
+C:\Users\Gebruiker\source\repos\WebsiteScrapper\WebsiteScrapper\bin\Debug\WebsiteScrapper.exe.config
+C:\Users\Gebruiker\source\repos\WebsiteScrapper\WebsiteScrapper\bin\Debug\WebsiteScrapper.exe
+C:\Users\Gebruiker\source\repos\WebsiteScrapper\WebsiteScrapper\bin\Debug\WebsiteScrapper.pdb
+C:\Users\Gebruiker\source\repos\WebsiteScrapper\WebsiteScrapper\obj\Debug\WebsiteScrapper.csprojAssemblyReference.cache
+C:\Users\Gebruiker\source\repos\WebsiteScrapper\WebsiteScrapper\obj\Debug\WebsiteScrapper.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\WebsiteScrapper\WebsiteScrapper\obj\Debug\WebsiteScrapper.exe
+C:\Users\Gebruiker\source\repos\WebsiteScrapper\WebsiteScrapper\obj\Debug\WebsiteScrapper.pdb
